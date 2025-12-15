@@ -96,7 +96,6 @@ predictor.generate_shap_html(shap_values, input_data, "shap_plot.html")
 - `train_and_export_model.py`: Model training and export utilities
 - `Xgboost.h5`: Trained XGBoost model file
 - `requirements.txt`: Python package dependencies
-- `2.png`: Logo image file (displayed in application footer)
 - `T25.xlsx`: Training dataset (for model retraining)
 - `run_app.bat`: Windows batch script to launch the application
 - `run_app.sh`: Linux/Mac shell script to launch the application
@@ -141,5 +140,6 @@ State Key Laboratory for Biology of Plant Diseases and Insect Pests, Institute o
 ## 📄 License
 
 This project is for research and educational purposes.
+
 
 
